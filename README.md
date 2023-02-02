@@ -1,2 +1,2 @@
 # node_npm
-learning cure for npm and node
+learning curve for npm and node
